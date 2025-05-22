@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmed Foyez
 ===================================================================================================================================
 
-Software Quality Tester and Researcher
+Software Developer/ Quality Tester and Researcher
 --------------------------------------
 
 I am a dedicated and enthusiastic Computer Science and Engineering student with a strong passion for integrating technology into meaningful and innovative solutions. With a solid foundation in programming and data science, I have worked on various projects involving machine learning, deep learning, and blockchain applications. My technical skills include proficiency in C#, Python, C++, HTML, and CSS, as well as experience with libraries and frameworks like TensorFlow, Scikit-learn, Pandas, and Matplotlib. I have explored real-world challenges through projects such as anticancer peptide prediction using deep learning, heart attack risk analysis with machine learning models, and enhancing transparency in Halal supply chains through blockchain. Known for being a quick learner and an effective team player, I adapt well to emerging technologies and thrive in collaborative environments. I am committed to personal growth and eager to contribute to impactful, tech-driven solutions that address real-world problems
