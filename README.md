@@ -13,7 +13,7 @@
 🎓 I'm a passionate CSE student from **Bangladesh**, dedicated to crafting meaningful tech solutions.  
 💡 I specialize in **machine learning**, **deep learning**, and **blockchain**-based projects.  
 🔭 I’ve built applications for **anticancer peptide prediction**, **heart attack risk detection**, and **Halal supply chain transparency**.  
-🌱 Currently diving deep into **DevOps**!  
+🌱 Currently diving deep into **Java**!  
 🤝 Always open to exciting research collaborations.
 
 📫 Reach me: **[ahmedfoyez2001@gmail.com](mailto:ahmedfoyez2001@gmail.com)**
